@@ -1,0 +1,20 @@
+packages:
+  - .
+
+overrides:
+  adm-zip: 0.6.0
+  diff: 8.0.3
+  serialize-javascript: 7.0.5
+
+allowBuilds:
+  bufferutil: true
+  esbuild: true
+  keccak: true
+  utf-8-validate: true
+
+onlyBuiltDependencies:
+  - bufferutil
+  - esbuild
+  - keccak
+  - secp256k1
+  - utf-8-validate

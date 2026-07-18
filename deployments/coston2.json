@@ -1,0 +1,14 @@
+{
+  "network": "coston2",
+  "chainId": 114,
+  "signalHarbor": "0xE656720A6f2B5F6887a81830190090d9d8A3D0ab",
+  "ftsoV2": "0xC4e9c78EA53db782E28f28Fdf80BaF59336B304d",
+  "fdcVerification": "0x906507E0B64bcD494Db73bd0459d1C667e14B933",
+  "firstEvidenceBlock": 32993633,
+  "xrplTransaction": "052ACFB5DCB4D3C098B5D7D14863C1D89A713E1BDEFC759CBD55951F23EFAB50",
+  "fdcRequestTransaction": "0xc960ad3769a2bb64644d90075b73ffe876f49c4ff93f21280bee96af14b38842",
+  "fdcVotingRound": 1399509,
+  "evidenceRecordTransaction": "0x2012dfc5d63600e28f9db305e256ce80731807026c18bf14c7deaf6752e8b985",
+  "evidenceId": "0x442d89f3a9bfe0e73c0a6c7ca0cc636f2e5662c36f64c81b450a889f83d79e7d",
+  "amountDrops": "1000000"
+}
