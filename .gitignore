@@ -10,3 +10,4 @@ typechain-types/
 .playwright-cli/
 work/
 outputs/
+.vercel

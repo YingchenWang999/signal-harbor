@@ -56,6 +56,9 @@ Most risk dashboards stop at charts. Signal Harbor makes the response itself ver
 
 ## Verified deployment
 
+- Live app: `https://signal-harbor-flare.vercel.app`
+- Repository: `https://github.com/YingchenWang999/signal-harbor`
+- Demo video: `https://github.com/YingchenWang999/signal-harbor/releases/download/v0.1.0/signal-harbor-demo.mp4`
 - SignalHarbor: `0xE656720A6f2B5F6887a81830190090d9d8A3D0ab`
 - XRPL Testnet transaction: `052ACFB5DCB4D3C098B5D7D14863C1D89A713E1BDEFC759CBD55951F23EFAB50`
 - FDC request transaction: `0xc960ad3769a2bb64644d90075b73ffe876f49c4ff93f21280bee96af14b38842`
@@ -69,6 +72,6 @@ Most risk dashboards stop at charts. Signal Harbor makes the response itself ver
 - [x] Deploy contracts to Coston2 from a dedicated faucet-funded wallet.
 - [x] Record a real XRPL Testnet XRPPayment proof to an allowlisted receiver.
 - [x] Connect the deployed evidence event to the UI.
-- Publish the frontend and repository.
-- Record the two-minute demo.
+- [x] Publish the frontend and repository.
+- [x] Record and publish the demo video.
 - Add deployment, explorer, repository, and live-app URLs to the DoraHacks BUIDL.
