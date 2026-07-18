@@ -4,7 +4,7 @@ Signal Harbor is a non-custodial treasury risk console for bridged assets on Fla
 
 Built for **Flare Summer Signal 2026 · Interoperable Asset Products**.
 
-**[Live app](https://signal-harbor-flare.vercel.app)** · **[Demo video](https://github.com/YingchenWang999/signal-harbor/releases/download/v0.1.0/signal-harbor-demo.mp4)** · **[Coston2 contract](https://coston2-explorer.flare.network/address/0xE656720A6f2B5F6887a81830190090d9d8A3D0ab)**
+**[Live app](https://signal-harbor-flare.vercel.app)** · **[Demo video](https://github.com/YingchenWang999/signal-harbor/releases/download/v0.1.0/signal-harbor-demo.mp4)** · **[DoraHacks BUIDL](https://dorahacks.io/buidl/47150)** · **[Coston2 contract](https://coston2-explorer.flare.network/address/0xE656720A6f2B5F6887a81830190090d9d8A3D0ab)**
 
 ## Why it exists
 
